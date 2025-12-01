@@ -1,0 +1,26 @@
+{
+  "itemGroup.crystalthrive": "Crystalthrive",
+  "block.crystalthrive.budding_quartz": "Budding Quartz",
+  "block.crystalthrive.budding_rose_quartz": "Budding Rose Quartz",
+  "block.crystalthrive.budding_prismarine": "Budding Prismarine",
+  "block.crystalthrive.budding_glowstone": "Budding Glowstone",
+  "item.crystalthrive.amethyst_core": "Amethyst Core",
+
+  "crystalthrive.configuration.title": "Crystalthrive Configs",
+  "crystalthrive.configuration.section.crystalthrive.common.toml": "Crystalthrive Configs",
+  "crystalthrive.configuration.section.crystalthrive.common.toml.title": "Crystalthrive Configs",
+
+  "crystalthrive.configuration.speedTab": "Growing speed",
+  "crystalthrive.configuration.allowedBlocks": "Allowed blocks",
+
+  "crystalthrive.configuration.allow.budding_quartz": "Allow budding Quartz",
+  "crystalthrive.configuration.allow.budding_rose_quartz": "Allow budding Rose Quartz",
+  "crystalthrive.configuration.allow.budding_prismarine": "Allow budding Prismarine",
+  "crystalthrive.configuration.allow.budding_glowstone": "Allow budding Glowstone",
+
+  "crystalthrive.configuration.speed.rpm_modifier": "RPM modifier for growing speed",
+  "crystalthrive.configuration.speed.budding_quartz": "Budding Quartz growth speed",
+  "crystalthrive.configuration.speed.budding_rose_quartz": "Budding Rose Quartz growth speed",
+  "crystalthrive.configuration.speed.budding_prismarine": "Budding Prismarine growth speed",
+  "crystalthrive.configuration.speed.budding_glowstone": "Budding Glowstone growth speed"
+}
