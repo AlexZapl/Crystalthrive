@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "crystalthrive:block/crystallic_lapis_block"
+  }
+}
